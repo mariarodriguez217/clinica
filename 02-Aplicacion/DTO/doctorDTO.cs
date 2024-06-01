@@ -1,21 +1,25 @@
-﻿using System;
-using _03_Dominio.ValuesObject;
-
-namespace _03_Dominio.Entidades
+﻿using _03_Dominio.ValueObjects;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+namespace _02_Aplicacion.DTOs
 {
-    public class Doctor
+    public class DoctorDTO
     {
         IdD idd;
         Nombre nombre;
         Apellido apellido;
+        Especialidad especialidad;
         FechaIngreso fechaingreso;
-        
-        public Doctor (Guid idd, string nombre,string apellido,DateTime fechaingreso )
+
+        public DoctorDTO(Guid idd, string nombre, string apellido, Especilidad especialidad, DateTime fechaingreso)
         {
             this.idd = new Id(id);
             this.nombre = new Nombre(nombre);
             this.apellido = new Apellido(apellido);
-   
+            this.especialidad = especialidad;
             this.fechaingreso = new FechaIngreso(fechaingreso);
         }
         public Guid idd()
@@ -30,7 +34,10 @@ namespace _03_Dominio.Entidades
         {
             return this.apellido.Valor();
         }
-      
+        public string Especialidad()
+        {
+            return this.especialidad.Valor();
+        }
         public DateTime FechaIngreso()
         {
             return this.fechaingreso.Valor();

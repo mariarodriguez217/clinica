@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Clinica\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2451E3B2-0946-4E64-885A-13F0726BA5FA}|03-Dominio\\03-Dominio.csproj|c:\\users\\usuario\\desktop\\clinica\\03-dominio\\entidades\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451E3B2-0946-4E64-885A-13F0726BA5FA}|03-Dominio\\03-Dominio.csproj|solutionrelative:03-dominio\\entidades\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451E3B2-0946-4E64-885A-13F0726BA5FA}|03-Dominio\\03-Dominio.csproj|c:\\users\\usuario\\desktop\\clinica\\03-dominio\\entidades\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451E3B2-0946-4E64-885A-13F0726BA5FA}|03-Dominio\\03-Dominio.csproj|solutionrelative:03-dominio\\entidades\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Clinica\\03-Dominio\\Entidades\\Paciente.cs",
+              "RelativeDocumentMoniker": "03-Dominio\\Entidades\\Paciente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Clinica\\03-Dominio\\Entidades\\Paciente.cs",
+              "RelativeToolTip": "03-Dominio\\Entidades\\Paciente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T23:11:55.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Clinica\\03-Dominio\\Entidades\\Doctor.cs",
+              "RelativeDocumentMoniker": "03-Dominio\\Entidades\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Clinica\\03-Dominio\\Entidades\\Doctor.cs",
+              "RelativeToolTip": "03-Dominio\\Entidades\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T23:08:41.672Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"

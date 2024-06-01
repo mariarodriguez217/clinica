@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-01-Presentacion",
+      "appliesTo": "01-Presentacion/",
+      "type": "launch"
+    }
+  ]
+}
