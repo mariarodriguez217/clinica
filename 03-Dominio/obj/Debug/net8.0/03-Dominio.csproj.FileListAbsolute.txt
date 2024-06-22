@@ -1,0 +1,5 @@
+c:\Users\Usuario\Desktop\Clinica\03-Dominio\obj\Debug\net8.0\03-Dominio.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Usuario\Desktop\Clinica\03-Dominio\obj\Debug\net8.0\03-Dominio.AssemblyInfoInputs.cache
+c:\Users\Usuario\Desktop\Clinica\03-Dominio\obj\Debug\net8.0\03-Dominio.AssemblyInfo.cs
+c:\Users\Usuario\Desktop\Clinica\03-Dominio\obj\Debug\net8.0\03-Dominio.csproj.CoreCompileInputs.cache
+c:\Users\Usuario\Desktop\Clinica\03-Dominio\obj\Debug\net8.0\03-Dominio.sourcelink.json

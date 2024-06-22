@@ -1,0 +1,37 @@
+using _02_Aplicacion.DTOs;
+using _03_Dominio.Entidades;
+using _03_Dominio.Repositorios;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _02_Aplicacion
+{
+    public class ListarDoctores
+    {
+        private DoctorRepositorio repositorio;
+
+        public ListarDoctores(DoctorRepositorio repositorio)
+        {
+            this.repositorio = repositorio;
+        }
+
+        public List<DoctorDTO> Ejecutar()
+        {
+            List<DoctorDTO> DoctoresDTO = new List<DoctorDTO>();
+            List<Doctor> doctores = this.repositorio.listar();
+            foreach (Doctor doctor in doctores)
+            {
+                DoctorDTO doctorDTO = new DoctorDTO(
+                    doctor.IdD(),
+                    doctor.Nombre(),
+                    doctor.Fechaingreso()
+                );
+                doctoresDTO.Add(doctorDTO);
+            }
+            return doctoresDTO;
+        }
+    }
+}

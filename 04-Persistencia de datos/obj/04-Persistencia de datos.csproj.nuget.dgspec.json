@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\Clinica\\04-Persistencia de datos\\04-Persistencia de datos.csproj": {}
+    "c:\\Users\\Usuario\\Desktop\\Clinica\\04-Persistencia de datos\\04-Persistencia de datos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\Clinica\\03-Dominio\\03-Dominio.csproj": {
+    "c:\\Users\\Usuario\\Desktop\\Clinica\\03-Dominio\\03-Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Clinica\\03-Dominio\\03-Dominio.csproj",
+        "projectUniqueName": "c:\\Users\\Usuario\\Desktop\\Clinica\\03-Dominio\\03-Dominio.csproj",
         "projectName": "03-Dominio",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Clinica\\03-Dominio\\03-Dominio.csproj",
+        "projectPath": "c:\\Users\\Usuario\\Desktop\\Clinica\\03-Dominio\\03-Dominio.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Clinica\\03-Dominio\\obj\\",
+        "outputPath": "c:\\Users\\Usuario\\Desktop\\Clinica\\03-Dominio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,36 +62,30 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\Desktop\\Clinica\\04-Persistencia de datos\\04-Persistencia de datos.csproj": {
+    "c:\\Users\\Usuario\\Desktop\\Clinica\\04-Persistencia de datos\\04-Persistencia de datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Clinica\\04-Persistencia de datos\\04-Persistencia de datos.csproj",
+        "projectUniqueName": "c:\\Users\\Usuario\\Desktop\\Clinica\\04-Persistencia de datos\\04-Persistencia de datos.csproj",
         "projectName": "04-Persistencia de datos",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Clinica\\04-Persistencia de datos\\04-Persistencia de datos.csproj",
+        "projectPath": "c:\\Users\\Usuario\\Desktop\\Clinica\\04-Persistencia de datos\\04-Persistencia de datos.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Clinica\\04-Persistencia de datos\\obj\\",
+        "outputPath": "c:\\Users\\Usuario\\Desktop\\Clinica\\04-Persistencia de datos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\Clinica\\03-Dominio\\03-Dominio.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\Clinica\\03-Dominio\\03-Dominio.csproj"
+              "c:\\Users\\Usuario\\Desktop\\Clinica\\03-Dominio\\03-Dominio.csproj": {
+                "projectPath": "c:\\Users\\Usuario\\Desktop\\Clinica\\03-Dominio\\03-Dominio.csproj"
               }
             }
           }

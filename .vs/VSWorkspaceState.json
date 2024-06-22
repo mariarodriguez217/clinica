@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\02-Aplicacion",
+    "\\03-Dominio",
+    "\\03-Dominio\\Entidades"
   ],
-  "SelectedNode": "\\Clinica.sln",
+  "SelectedNode": "\\02-Aplicacion\\CrearDoctor.cs",
   "PreviewInSolutionExplorer": false
 }
